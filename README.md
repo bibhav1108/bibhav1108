@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Bibhav Upadhyay
 
-<!--
-**bibhav1108/bibhav1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech 2nd Year Student (Engineering)
+- 💻 Passionate about Web Development and Problem Solving
+- 🌱 Currently learning Full Stack Development & Data Structures
+- 🔭 Working on real-world projects and improving coding skills
+- ⚡ Goal: To become a skilled Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- C
+- C++
+- JavaScript
+- Python
+
+### 🌐 Web Development
+- HTML
+- CSS
+- Tailwind CSS
+- React.js
+- Node.js
+- FastAPI
+
+### 🗄️ Database
+- MongoDB
+- MySQL
+
+### ⚙️ Tools & Technologies
+- Git & GitHub
+- VS Code
+---
+
+## 📈 GitHub Stats
+![Bibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=bibhav1108&show_icons=true&theme=radical)
+
+---
